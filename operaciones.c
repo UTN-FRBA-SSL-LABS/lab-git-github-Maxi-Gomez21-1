@@ -2,11 +2,7 @@
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
-<<<<<<< HEAD
-int sumar(int a,int b) {
-=======
 int sumar(int a, int b) {
->>>>>>> origin/feature/conflicto-demo
     return a + b;
 }
 
@@ -18,15 +14,9 @@ int restar(int a, int b) {
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
-<<<<<<< HEAD
 // multiplica dos enteros usando el operador *
 int multiplicar(int a, int b) {
-    return a * b; //La operacion * hace la multiplicacion entre a y b
-=======
-int multiplicar(int a, int b) {
-    (void)a; (void)b;
-    return 0; /* TODO: implementar */
->>>>>>> origin/feature/conflicto-demo
+    return a * b;
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
